@@ -1,4 +1,4 @@
-## DEPRECATED: This library and the REST API v1 has been deprecated. More information at https://hs.smsglobal.com/services-update
+## REST API v2 . More information at https://hs.smsglobal.com/services-update
 
 SMSGlobal Class Library for PHP
 ===============================
