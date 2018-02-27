@@ -1,7 +1,7 @@
 {
     "name": "smsglobal/rest-api-client",
     "type": "library",
-    "description": "Wrapper for SMSGlobal's REST API",
+    "description": "Wrapper for SMSGlobal's REST API v2",
     "keywords": [],
     "homepage": "http://www.smsglobal.com/",
     "license": "MIT",
@@ -23,5 +23,11 @@
         "psr-0" : {
             "Smsglobal\\RestApiClient" : ""
         }
-    }
+    },
+     "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/isurindu/rest-api-client-php"
+        }
+    ]
 }
