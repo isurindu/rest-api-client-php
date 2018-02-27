@@ -23,11 +23,5 @@
         "psr-0" : {
             "Smsglobal\\RestApiClient" : ""
         }
-    },
-     "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/isurindu/rest-api-client-php"
-        }
-    ]
+    }
 }
