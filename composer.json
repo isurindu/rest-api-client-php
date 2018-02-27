@@ -1,5 +1,5 @@
 {
-    "name": "smsglobal/rest-api-client",
+    "name": "isurindu/rest-api-client",
     "type": "library",
     "description": "Wrapper for SMSGlobal's REST API v2",
     "keywords": [],
@@ -23,5 +23,14 @@
         "psr-0" : {
             "Smsglobal\\RestApiClient" : ""
         }
-    }
+    },
+     "replace": {
+        "smsglobal/rest-api-client": "*"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/isurindu/rest-api-client-php"
+        }
+    ]
 }
